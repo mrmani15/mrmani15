@@ -40,3 +40,8 @@ I'm a MERN stack Developer with proficiency in REACT and Basic Data Structures A
 <img src="https://img.shields.io/badge/express%20-%23c21325.svg?&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/mongodb%20-%23e34f26.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/firebase%20-%231572B6.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/react Native%20-%23cc6699.svg?&style=for-the-badge&logo=react&native&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
+<h4><samp> Projects </samp></h4>
+<p align='center'>
+<a href="https://cloneoftwitter.netlify.app/"><img src="https://img.shields.io/badge/twitter_clone-%23e34f26.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://livebtc2usd.netlify.app/"><img src="https://img.shields.io/badge/BTC_2 USD-%231572B6.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://atithi.netlify.app/"><img src="https://img.shields.io/badge/atithi-%23cc6699.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://mapsmicrofinance.netlify.app/"><img src="https://img.shields.io/badge/microfinance-%23c21325.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<hr>
