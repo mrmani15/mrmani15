@@ -13,7 +13,7 @@ I'm a MERN stack Developer with proficiency in REACT and Basic Data Structures A
 <hr>
 
 <p align='center'>
-  <a href="https://manishrahul.netlify.app"><img src="https://img.shields.io/badge/portfolio-%23c21325.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://manishrahul.netlify.app" target='_blank'><img src="https://img.shields.io/badge/portfolio-%23c21325.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/ManishRahul?hr_r=1"><img src="https://img.shields.io/badge/hackerrank-%23339933.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/manish-rahul"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -42,6 +42,6 @@ I'm a MERN stack Developer with proficiency in REACT and Basic Data Structures A
 <hr>
 <h4><samp> Projects </samp></h4>
 <p align='center'>
-<a href="https://cloneoftwitter.netlify.app/"><img src="https://img.shields.io/badge/twitter_clone-%23e34f26.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://livebtc2usd.netlify.app/"><img src="https://img.shields.io/badge/BTC_2 USD-%231572B6.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://atithi.netlify.app/"><img src="https://img.shields.io/badge/atithi-%23cc6699.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://mapsmicrofinance.netlify.app/"><img src="https://img.shields.io/badge/microfinance-%23c21325.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://cloneoftwitter.netlify.app/" target='_blank'><img src="https://img.shields.io/badge/twitter_clone-%23e34f26.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://livebtc2usd.netlify.app/" target='_blank'><img src="https://img.shields.io/badge/BTC_2 USD-%231572B6.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://atithi.netlify.app/" target='_blank'><img src="https://img.shields.io/badge/atithi-%23cc6699.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://mapsmicrofinance.netlify.app/" target='_blank'><img src="https://img.shields.io/badge/microfinance-%23c21325.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
