@@ -6,7 +6,7 @@
 
 <h3> <samp>Full Stack Developer</samp></h3>
 
-<p align='center'><samp>
+<p align='left'><samp>
   Experienced software professional with over three years of diverse expertise across multiple programming languages and tools. Fueled by an insatiable curiosity and a passion for mastering new technologies, I am dedicated to evolving my skills and consistently pursuing opportunities for learning and innovation.
 </samp></p>
 
