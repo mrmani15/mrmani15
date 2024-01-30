@@ -64,9 +64,6 @@
   <a href="https://atithi.netlify.app/" target='_blank'><img src="https://img.shields.io/badge/atithi-%23cc6699.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
   <a href="https://mapsmicrofinance.netlify.app/" target='_blank'><img src="https://img.shields.io/badge/microfinance-%23c21325.svg?&style=for-the-badge&logo=&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
 <hr>
-
 <br>
-
 <img src=https://komarev.com/ghpvc/?username=mrmani15 alt="Manish Rahul" /> 
